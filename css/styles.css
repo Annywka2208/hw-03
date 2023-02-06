@@ -40,13 +40,12 @@ h1,h2,h3,h4,p {
 body {
     font-family: 'Roboto',sans-serif;
     color: #434455;
-    margin: 0;
-    position: relative;
+
 
 }
 
 .conteiner {
-  width: 1158px;
+  width: 1128px;
   margin-left: auto;
   margin-right: auto;
 }
@@ -72,13 +71,10 @@ body {
 
 .header-one-conteiner {
     display: flex;
+  
 }
 
 
-
-.header-cont {
-   
-}
 
 .top-navigation {
     display: flex;
@@ -117,6 +113,7 @@ body {
    
 }
 
+
 .menu-link {
     font-weight: 500;
     font-size: 16px;
@@ -150,7 +147,7 @@ body {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    margin-right: 40px;
+
 }
 
 .address-mail:hover,
@@ -198,9 +195,8 @@ body {
         letter-spacing: 0.02em;
         color: var(--fon-title);
         max-width: 496px;
-        max-height: 120px;
-       margin-left: auto;
-       margin-right: auto;
+        margin-left: auto;
+        margin-right: auto;
        
 
 
